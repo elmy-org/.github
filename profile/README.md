@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/elmy-org/.github/main/profile/logo.svg" alt="ELMY Learning Solutions" width="120" />
+<img src="./logo.svg" alt="ELMY Learning Solutions" width="120" />
 
 # ELMY Learning Solutions
 
