@@ -1,8 +1,26 @@
+<div align="center">
+
+<img src="https://avatars.githubusercontent.com/u/159589821?s=200&v=4" alt="ELMY Learning Solutions" width="120" />
+<!-- When dark/light wordmark assets are ready, swap to:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="...dark.svg">
+  <img src="...light.svg" alt="ELMY Learning Solutions" width="320">
+</picture>
+-->
+
 # ELMY Learning Solutions
 
 **Learning solutions built for the MENA region.**
 
-We design and operate software that helps institutions teach, examine, and credential at scale — with first-class support for Arabic and the workflows our customers actually use.
+<p dir="rtl" lang="ar"><strong>حلول تعليمية مصمَّمة لمنطقة الشرق الأوسط وشمال أفريقيا.</strong></p>
+
+[Website](https://elmysolutions.org) · [Contact](mailto:info@elmysolutions.org) · Lebanon · MENA
+
+</div>
+
+---
+
+We design and operate software that helps institutions teach, examine, and credential at scale — with first-class support for Arabic and the workflows our customers actually use. From a single classroom in Beirut to nationwide examination programs, ELMY runs on the ground across the region.
 
 ## What we build
 
@@ -28,7 +46,7 @@ We design and operate software that helps institutions teach, examine, and crede
 
 **حلول تعليمية مصمَّمة لمنطقة الشرق الأوسط وشمال أفريقيا.**
 
-نُصمِّم ونُشغِّل برمجيات تُمكِّن المؤسسات من التدريس والامتحان ومنح الشهادات على نطاق واسع، مع دعم كامل للغة العربية ولسير العمل الذي يعتمده عملاؤنا فعلياً.
+نُصمِّم ونُشغِّل برمجيات تُمكِّن المؤسسات من التدريس والامتحان ومنح الشهادات على نطاق واسع، مع دعم كامل للغة العربية ولسير العمل الذي يعتمده عملاؤنا فعلياً. من صفٍّ واحد في بيروت إلى برامج امتحانات على المستوى الوطني، تعمل إلمي على أرض الواقع في مختلف أنحاء المنطقة.
 
 ## ما الذي نبنيه
 
