@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="./logo.svg" alt="ELMY Learning Solutions" width="120" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./logo-dark.svg">
+  <img src="./logo-light.svg" alt="ELMY Learning Solutions" width="120">
+</picture>
 
 # ELMY Learning Solutions
 
