@@ -1,12 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/159589821?s=200&v=4" alt="ELMY Learning Solutions" width="120" />
-<!-- When dark/light wordmark assets are ready, swap to:
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="...dark.svg">
-  <img src="...light.svg" alt="ELMY Learning Solutions" width="320">
-</picture>
--->
+<img src="https://raw.githubusercontent.com/elmy-org/.github/main/profile/logo.svg" alt="ELMY Learning Solutions" width="120" />
 
 # ELMY Learning Solutions
 
